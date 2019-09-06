@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399913509955",
+    "firebase_url": "https://voice-recognition-eebb3.firebaseio.com",
+    "project_id": "voice-recognition-eebb3",
+    "storage_bucket": "voice-recognition-eebb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399913509955:android:a1d89c688529238e",
+        "android_client_info": {
+          "package_name": "com.example.voicerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399913509955-n3g2nbfgsi7c59q7h2iqs7anh3l2rgog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voicerecognition",
+            "certificate_hash": "2e32de9de8b4380bf117565cfe0a933bd06acb46"
+          }
+        },
+        {
+          "client_id": "399913509955-o2fp1cb5esf5k7ker34kderhbqbl1fml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCglLj9qziSCxquYD1nr_H7WuTB5A1ChM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399913509955-o2fp1cb5esf5k7ker34kderhbqbl1fml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
